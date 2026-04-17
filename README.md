@@ -1,21 +1,30 @@
-### Ruben Nati
+<h1 align="center">Ruben Nati</h1>
 
-Security engineer in Vienna. Shipping opinionated blueprints for small-team infrastructure — the kind that doesn't have a dedicated DevOps team but still deserves serious security.
+<p align="center"><em>Vienna · Foundations, not finishes</em></p>
 
-​**Role** · Cybersecurity consultant, blueprint author  
-**Based** · Vienna, AT  
-**Day** · OT/IT security, NIS2, ISO 27001  
-**Night** · Docker, Traefik, self-hosted  
-**Offline** · running, snowboarding, CrossFit, volunteer first responder
+<br />
 
+Security done right isn't reducible to tools. It's architecture, process, responsibility, and the quiet decisions that compound.
 
-**Current builds**
+### Three things I actually believe
 
-→ [`secure-docker-blueprint`](https://github.com/rubennati/secure-docker-blueprint) — security-hardened Docker Compose with Traefik, CrowdSec, Authentik SSO, standardized patterns  
-→ [`cert-ops-tool`](https://github.com/rubennati/cert-ops-tool) — ACME certificate issuance & distribution for devices without a reverse proxy
+1. **Security is built, not bought.**
+2. **Most damage comes from missing basics, not missing exotics.**
+3. **Good architecture survives its author leaving.**
 
-**Elsewhere**
-[LinkedIn](https://www.linkedin.com/in/rubennati/) · [X](https://x.com/RubenNati)
+### In the open
+
+→ [secure-docker-blueprint](https://github.com/rubennati/secure-docker-blueprint)  
+→ [cert-ops-tool](https://github.com/rubennati/cert-ops-tool)
+
+<br />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rubennati/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/RubenNati">X</a>
+</p>
+
 
 <!--
 **rubennati/rubennati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
