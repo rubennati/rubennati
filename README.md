@@ -15,8 +15,8 @@ Security done right isn't reducible to tools. It's architecture, process, respon
 ### In the open
 
 → [secure-docker-blueprint](https://github.com/rubennati/secure-docker-blueprint)  
-→ [cert-ops-tool](https://github.com/rubennati/cert-ops-tool)
-→ [ai-project-standard](https://github.com/rubennati/ai-project-standard)
+→ [cert-ops-tool](https://github.com/rubennati/cert-ops-tool)  
+→ [ai-project-standard](https://github.com/rubennati/ai-project-standard)  
 
 <br />
 
